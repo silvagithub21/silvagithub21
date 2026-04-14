@@ -1,19 +1,6 @@
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ██████╗ ██████╗ ███╗   ██╗████████╗               ║
-║       ██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝               ║
-║       ██║     ██║   ██║██╔██╗ ██║   ██║                  ║
-║       ██║     ██║   ██║██║╚██╗██║   ██║                  ║
-║       ╚██████╗╚██████╔╝██║ ╚████║   ██║                  ║
-║        ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝                  ║
-║                                                           ║
-║              < Transformando pixels em magia />           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kleberson%20Silva&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%94%20Transformando%20pixels%20em%20experi%C3%AAncias&descAlignY=58&descSize=18" width="100%"/>
 
 # 🎨 Portfolio — Desenvolvedor Front-End Iniciante
 
