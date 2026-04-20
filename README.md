@@ -41,16 +41,15 @@ Sou apaixonado por criar interfaces que não apenas **funcionam**, mas que deixa
 | Tecnologia | Nível | Uso |
 |:----------:|:-----:|:----|
 | HTML5 | ████████░░ | Semântica, acessibilidade, SEO |
-| CSS3 / Sass | █████████░ | Animações, layouts complexos, design systems |
-| JavaScript (ES2024+) | ████████░░ | Lógica, APIs, interatividade |
-| TypeScript | ███████░░░ | Tipagem, robustez, manutenibilidade |
+| CSS3 / Sass | █████████░░░  | Animações, layouts complexos, design systems |
+| TypeScript | ███████░░░░░  | Tipagem, robustez, manutenibilidade |
 
 ### ⚛️ Frameworks & Bibliotecas
 ```
-React ──────────────── ████████████ 95%
+React ──────────────── ██████████░░  80%
 Next.js ────────────── ██████████░░ 85%
 Vue.js ─────────────── ████████░░░░ 70%
-Tailwind CSS ───────── ████████████ 92%
+Tailwind CSS ───────── ██████░░░░░░ 52%
 Framer Motion ──────── ███████░░░░░ 65%
 ```
 
