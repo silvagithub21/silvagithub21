@@ -1,127 +1,112 @@
+
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kleberson%20Silva&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%94%20Transformando%20pixels%20em%20experi%C3%AAncias&descAlignY=58&descSize=18" width="100%"/>
 
-# 🎨 Portfolio — Desenvolvedor Front-End Iniciante
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Kleberson%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20Iniciante&descSize=20&descAlignY=65&descFontColor=a0c4ff)
 
-**Construindo experiências digitais que encantam, engajam e convertem.**
+# Olá, eu sou o Kleberson Silva! 👋
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+### 💻 Desenvolvedor Full Stack Iniciante | 🎓 Estudante de Engenharia de Software
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-silva-conceicao-493693260/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvagithub21)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klebersonconceicao87@gmail.com)
 
 </div>
 
 ---
 
-## 👾 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-```js
-const dev = {
-  nome:        "Kleberson Silva",
-  role:        "Front-End Developer",
-  localização: "Rio Grande do Sul, Estrela 🇧🇷",
-  foco:        ["UI/UX", "Performance", "Acessibilidade"],
-  hobbie:      "Converter café em interfaces bonitas ☕",
+Olá! Sou **Kleberson Silva**, desenvolvedor Full Stack iniciante apaixonado por tecnologia e inovação. Moro em **Estrela, Rio Grande do Sul**, e atualmente curso **Engenharia de Software na Univates** (Universidade do Vale do Taquari), onde desenvolvo habilidades técnicas e busco constantemente aprender e evoluir na área.
 
-  filosofia: () => {
-    return "Todo detalhe importa — do kerning ao millisegundo.";
-  }
-};
-```
+Estou no início da minha jornada como desenvolvedor, mas com muita vontade de crescer profissionalmente, enfrentar desafios reais e contribuir para projetos que façam diferença. Acredito que cada linha de código é uma oportunidade de aprender algo novo!
 
-Sou apaixonado por criar interfaces que não apenas **funcionam**, mas que deixam o usuário com aquela sensação de *"uau"*. Acredito que o front-end é a ponte entre tecnologia e emoção — e essa ponte precisa ser linda.
+- 🎓 Cursando **Engenharia de Software** na **Univates**
+- 📍 Baseado em **Estrela, RS — Brasil**
+- 🚀 Em constante aprendizado e evolução
+- 🎯 Objetivo: crescer profissionalmente como desenvolvedor Full Stack
+- 💡 Sempre aberto a novos desafios e oportunidades
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Tecnologias & Ferramentas — Aprendendo
 
-### 🎯 Core
-| Tecnologia | Nível | Uso |
-|:----------:|:-----:|:----|
-| HTML5 | ████████░░ | Semântica, acessibilidade, SEO |
-| CSS3 / Sass | █████████░░░  | Animações, layouts complexos, design systems |
-| TypeScript | ███████░░░░░  | Tipagem, robustez, manutenibilidade |
+> Todas as tecnologias abaixo estão em processo de aprendizado. As barras representam meu nível de evolução atual.
 
-### ⚛️ Frameworks & Bibliotecas
-```
-React ──────────────── ██████████░░  80%
-Next.js ────────────── ██████████░░ 85%
-Vue.js ─────────────── ████████░░░░ 70%
-Tailwind CSS ───────── ██████░░░░░░ 52%
-Framer Motion ──────── ███████░░░░░ 65%
-```
+### 🎨 Frontend
 
-### 🧰 Ecossistema
-- **Build Tools:** Vite · Webpack · Turbopack
-- **Testes:** Jest · Vitest · Testing Library · Cypress
-- **Design:** Figma · Storybook · Chromatic
-- **CI/CD:** GitHub Actions · Vercel · Netlify
-- **Versionamento:** Git · Conventional Commits
+| Tecnologia | Nível | Progresso |
+|------------|-------|-----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5 | Iniciante | ![55%](https://progress-bar.xyz/55/?title=&width=200&color=E34F26) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3 | Iniciante | ![45%](https://progress-bar.xyz/45/?title=&width=200&color=1572B6) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript | Iniciante | ![40%](https://progress-bar.xyz/40/?title=&width=200&color=F7B731) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) React | Aprendendo | ![25%](https://progress-bar.xyz/25/?title=&width=200&color=61DAFB) |
 
----
+### ⚙️ Backend
 
-## 📐 Princípios que Guiam o Meu Trabalho
+| Tecnologia | Nível | Progresso |
+|------------|-------|-----------|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) Node.js | Aprendendo | ![25%](https://progress-bar.xyz/25/?title=&width=200&color=43853D) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python | Iniciante | ![35%](https://progress-bar.xyz/35/?title=&width=200&color=3776AB) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) Java | Iniciante | ![30%](https://progress-bar.xyz/30/?title=&width=200&color=ED8B00) |
 
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   01  PERFORMANCE FIRST                             │
-│       Cada kilobyte conta. Cada millisegundo conta. │
-│                                                     │
-│   02  ACESSIBILIDADE É PADRÃO                       │
-│       Construo para todos — sem exceção.            │
-│                                                     │
-│   03  MOBILE PRIMEIRO                               │
-│       O layout começa no menor dispositivo.         │
-│                                                     │
-│   04  CÓDIGO É COMUNICAÇÃO                          │
-│       Legível hoje, mantível amanhã.                │
-│                                                     │
-│   05  DETALHES FAZEM A DIFERENÇA                    │
-│       A animação sutil que o usuário não percebe,   │
-│       mas sentiria falta se sumisse.                │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+### 🗄️ Banco de Dados
 
+| Tecnologia | Nível | Progresso |
+|------------|-------|-----------|
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) MySQL | Iniciante | ![35%](https://progress-bar.xyz/35/?title=&width=200&color=005C84) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) PostgreSQL | Aprendendo | ![20%](https://progress-bar.xyz/20/?title=&width=200&color=316192) |
+
+### 🔧 Ferramentas
+
+| Tecnologia | Nível | Progresso |
+|------------|-------|-----------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git | Iniciante | ![40%](https://progress-bar.xyz/40/?title=&width=200&color=F05032) |
+| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) GitHub | Iniciante | ![40%](https://progress-bar.xyz/40/?title=&width=200&color=555555) |
+| ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) VS Code | Iniciante | ![50%](https://progress-bar.xyz/50/?title=&width=200&color=0078D4) |
 
 ---
 
-## 🌐 Onde Me Encontrar
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvagithub21&show_icons=true&theme=tokyonight&locale=pt-br)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifoliodevkleberson.netlify.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klebersonconceicao87@gmail.com)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvagithub21&layout=compact&theme=tokyonight&locale=pt-br)
 
 </div>
 
 ---
 
-## 💡 Aprendendo Agora
+## 🎯 Objetivos & Foco Atual
 
-```diff
-+ WebGL & Three.js         → Experiências 3D na web
-+ Web Animations API       → Animações sem biblioteca
-+ React Server Components  → O futuro do React
-+ View Transitions API     → Transições nativas do browser
-```
+- 📚 Aprofundando conhecimentos em **React** e **Node.js**
+- 🔍 Explorando boas práticas de **desenvolvimento de software**
+- 🤝 Buscando minha **primeira oportunidade profissional** como desenvolvedor
+- 🌱 Aprendendo sobre **arquitetura de sistemas** e **padrões de projeto**
 
 ---
 
+## 🏫 Formação Acadêmica
+
+| Curso | Instituição | Ano | Status |
+|-------|-------------|-----|--------|
+| Engenharia de Software | Univates — Universidade do Vale do Taquari | 2026 - atual | 🟡 Em andamento |
+| Desenvolvedor Mobile | SENAI — Lajeado, RS | 2024 | ✅ Concluído |
+
+---
+
+## 📫 Entre em Contato
+
+Se quiser trocar uma ideia, colaborar em projetos ou tiver alguma oportunidade, pode me chamar! Estou sempre aberto a novos contatos e parcerias.
+
+> *"A melhor forma de aprender é colocando a mão na massa."*
+
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   "Design não é como algo parece. É como funciona."
-                                   — Steve Jobs
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**⭐ Se algo aqui te inspirou, deixa uma estrela!**
+⭐ **Se gostou do meu perfil, deixa uma estrela nos projetos!** ⭐
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer)
